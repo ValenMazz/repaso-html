@@ -1,3 +1,38 @@
 img{
-    width: 1000px;
+    width: 900px;
 }
+
+h1{
+    color: brown;
+    border-color: black;
+    padding-left: 2px;
+}
+
+body{
+    background-color: (lightgray);
+}
+
+p{
+    font-size: 20px;
+    background-color:rgb(120, 133, 146);
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto{
+    color: rgb(44, 45, 92);
+}
+
+div{
+   border:rgb(44, 45, 92) dashed 3px;
+   display: flex;
+   justify-content: center;
+   width: 50%;
+}
+
+ol{
+    padding: 10%;
+}
+
